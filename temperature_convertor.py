@@ -3,6 +3,16 @@ def celsius_to_fahrenheit(value):
     return fahrenheit
 
 
+def celsius_to_kelvin(value):
+    kelvin = value + 273.15
+    return kelvin
+
+
 def fahrenheit_to_celsius(value):
     celsius = (value - 32) * 5 / 9
+    return celsius
+
+
+def kelvin_to_celsius(value):
+    celsius = value - 273.15
     return celsius
