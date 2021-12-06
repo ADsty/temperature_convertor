@@ -37,8 +37,8 @@ Your result is 283.15 K
 
 Для запуска программы через Docker необходимо выполнить команду:
 
-```docker build .```
+```docker build -t temperature_convertor .```
 
 После этого необходимо выполнить команду:
 
-```docker run -it <имя-образа>```
+```docker run -it temperature_convertor```
