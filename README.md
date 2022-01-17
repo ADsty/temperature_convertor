@@ -1,5 +1,9 @@
 # Конвертор температуры
 
+![develop](https://github.com/ADsty/temperature_convertor/actions/workflows/tests.yml/badge.svg?branch=develop) - develop
+
+![main](https://github.com/ADsty/temperature_convertor/actions/workflows/tests.yml/badge.svg?branch=main) - main
+
 ## Описание программы
 
 Программа позволяет переводить температуру в разные единицы измерения. Поддерживаемые единицы измерения: градусы Цельсия,
